@@ -100,7 +100,7 @@ O status da transação basicamente indica o que aconteceu com ela, se a chamada
 
 ### 3.3 Block
 
-O termo blockchain é a junção das palavras block (bloco) + chain (cadeia), ou seja cadeia de blocos. Conforme explicamos na Missão 1, ele é composto por uma cadeia de blocos, e cada bloco possue inúmeras transações, é a forma que os dados são armazenados.
+O termo blockchain é a junção das palavras block (bloco) + chain (cadeia), ou seja cadeia de blocos. Conforme explicamos na Missão 1, ele é composto por uma cadeia de blocos, e cada bloco possui inúmeras transações. É a forma que os dados são armazenados.
 
 O block nesta tela é o número do bloco em que a nossa transação foi gravada. Logo ao lado, é possível ver um registro de _Block Confirmations_, que representa quantos blocos já foram adicionados depois da confirmação da transação.&#x20;
 
@@ -110,7 +110,7 @@ A timestamp é bem auto explicativa, e serve basicamente para armazenar a data e
 
 ### 3.5 From
 
-O campo from representa o remetente da transação, lembrando que ele pode ou não ser um contrato. É um endereço, como o nosso. Neste caso é o endereço da carteira do BOT Melk que distribuí os tokens MELK.
+O campo _from_ representa o remetente da transação, lembrando que ele pode ou não ser um contrato. É um endereço, como o nosso. Neste caso é o endereço da carteira do BOT Melk que distribui os tokens MELK.
 
 ### 3.6 Interacted With (to)
 
@@ -124,7 +124,7 @@ Apresenta três partes:&#x20;
 * To: o endereço que recebeu os tokens
 * For: a quantidade de tokens transferida na transação e o nome do token
 
-É importante notar que na sua carteria MetaMask o valor da transação da recompensa da missão 1 não aparecerá com todas as casas decimais. Entretanto, o valor real total da transação está retratado nesse campo. O MetaMask omite tantas casas decimais para melhor experiência de usuário.&#x20;
+É importante notar que na sua carteira MetaMask o valor da transação da recompensa da missão 1 não aparecerá com todas as casas decimais. Entretanto, o valor real total da transação está retratado nesse campo. O MetaMask omite tantas casas decimais para melhor experiência de usuário.&#x20;
 
 ### 3.8 Value
 
@@ -150,7 +150,7 @@ Esse campo representa o valor de fechamento da moeda MATIC no dia da transação
 
 É a quantidade máxima de gas disponibilizada para aquela transação específica, escolhida pelo pagador. Isso significa que se a quantidade de gas ultrapassar o valor escolhido, a transação não será completada.
 
-Quando uma transação é realizada, você pode escolher a quantidade máximo de gas que você está disposto a pagar pela transação.
+Quando uma transação é realizada, você pode escolher a quantidade máxima de gas que você está disposto a pagar pela transação.
 
 ### 3.13 Gas Used by Transaction
 
